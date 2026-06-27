@@ -123,4 +123,4 @@ focusmate-ai/
     └── index.js
 ```
 
-## 👩‍💻 Built by Ananya — Final Year Project MIET Meerut
+## 👩‍💻 Built by Ananya — (MERN Stack + AI) Enthusiast
